@@ -1,44 +1,96 @@
 from flask import Flask, request, jsonify
+import requests
+from dotenv import load_dotenv
+import os
 from flask_cors import CORS
-from transformers import pipeline
-import re
+
+# Load environment variables from the .env file
+load_dotenv()
 
 # Initialize Flask app
 app = Flask(__name__)
 CORS(app)
 
-# Initialize Hugging Face's transformer-based question-answering pipeline
-qa_pipeline = pipeline("question-answering")
+# Hugging Face API key
+huggingface_api_key = os.getenv("HUGGINGFACE_API_KEY")
+if not huggingface_api_key:
+    raise ValueError("Hugging Face API key is missing. Please check your .env file.")
 
-# Path to the document
-file_path = r"D:\Harri\Projects\Big Data Project\chatbot_vit\src\flask\pdf_content.txt"
-with open(file_path, "r") as file:
-    document_text = file.read()
+# Hugging Face Inference API endpoint for Question Answering
+API_URL = "https://api-inference.huggingface.co/models/distilbert-base-uncased-distilled-squad"
 
-@app.route("/ask", methods=["POST"])
-def ask_question():
+# Path to the text file where the PDF content is stored
+TEXT_FILE_PATH = os.path.join(os.path.dirname(__file__), 'pdf_content.txt')
+
+# Function to load text from the file
+def load_text_from_file(file_path):
     """
-    Endpoint to handle user questions and return answers based on the loaded text.
+    Loads text from a file.
+
+    Args:
+        file_path (str): The path to the file.
+
+    Returns:
+        str: The loaded text.
     """
-    try:
-        # Get the user question from the request
-        data = request.get_json()
-        question = data.get("question")
+    if os.path.exists(file_path):
+        with open(file_path, 'r', encoding='utf-8') as file:
+            return file.read()
+    return ""
 
-        if not question:
-            return jsonify({"error": "Question is required."}), 400
+# Load the text from the file into memory
+pdf_text = load_text_from_file(TEXT_FILE_PATH)
 
-        # Use Hugging Face's transformer model to get the answer
-        answer = qa_pipeline(question=question, context=document_text)
+# Function to query the Hugging Face Inference API
+def query_huggingface_api(context, question):
+    """
+    Queries the Hugging Face Inference API with a given context and question.
 
-        # Return the answer
-        return jsonify({
+    Args:
+        context (str): The context text.
+        question (str): The question to ask.
+
+    Returns:
+        dict: Response from the API.
+    """
+    headers = {"Authorization": f"Bearer {huggingface_api_key}"}
+    payload = {
+        "inputs": {
             "question": question,
-            "answer": answer['answer']
-        })
-
+            "context": context
+        }
+    }
+    try:
+        response = requests.post(API_URL, headers=headers, json=payload)
+        if response.status_code == 200:
+            return response.json()
+        else:
+            return {"error": response.text}
     except Exception as e:
-        return jsonify({"error": str(e)}), 500
+        return {"error": str(e)}
+
+# Endpoint to handle user queries
+@app.route('/query', methods=['POST'])
+def query():
+    """
+    Handles POST requests to the /query endpoint.
+
+    Expects JSON input with a "question" field.
+    Returns the answer from the Hugging Face API.
+    """
+    data = request.get_json()
+    question = data.get("question")
+
+    # Check if a question was provided
+    if not question:
+        return jsonify({"error": "No question provided"}), 400
+
+    # Limit the context length to avoid exceeding API limits
+    context = pdf_text[:2000]
+
+    # Query the Hugging Face API
+    result = query_huggingface_api(context=context, question=question)
+    return jsonify(result)
 
 if __name__ == "__main__":
     app.run(debug=True)
