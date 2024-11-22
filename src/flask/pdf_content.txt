@@ -1,0 +1,273 @@
+# FFCS Academic Regulations
+**Version 4.0**
+
+---
+
+## CONTENTS
+
+1. **Preamble**
+2. **Scope**
+3. **Admission**
+4. **Academic System**
+   - 4.1 Semester
+   - 4.2 Curriculum
+   - 4.3 Syllabus
+   - 4.4 Course Plan
+   - 4.5 Course Flowchart
+   - 4.6 Course Types
+   - 4.7 Course Code
+5. **Programme Duration**
+6. **Course and Credit Requirements**
+   - 6.1 Course Credits
+   - 6.2 Minimum Credit Requirement
+   - 6.3 Course Distribution
+     - 6.3.1 Foundation Core
+     - 6.3.2 Discipline Core
+     - 6.3.3 Discipline Elective / Specialization Elective
+     - 6.3.4 Open Elective
+     - 6.3.5 Skill Enhancement Course
+     - 6.3.6 Ability Enhancement Course
+     - 6.3.7 Project and Internship
+     - 6.3.8 Additional Learning
+7. **Course Registration**
+   - 7.1 Proctor (Assistance)
+   - 7.2 Bridge Courses
+   - 7.3 Minimum / Maximum Credit Limits for Course Registration
+   - 7.4 Registering for Backlog Courses
+   - 7.5 Add/Drop Courses
+   - 7.6 Course Withdrawal
+   - 7.7 Course Prerequisites
+8. **Attendance**
+9. **Assessment / Evaluation**
+   - 9.1 Class Based Learning
+   - 9.2 Questions based on HOTs
+   - 9.3 Eligibility for Examinations
+   - 9.4 Grading System
+   - 9.5 Absolute and Relative Grading
+   - 9.6 Evaluation of Laboratory Courses
+   - 9.7 Evaluation of Courses having Embedded Laboratory
+   - 9.8 Viewing Internal Assessment Marks
+   - 9.9 Perusal of Answer Sheets, Re-Evaluation and Declaration of Results
+   - 9.10 Calculation of Grade Point Average
+   - 9.11 Absence from an Exam
+   - 9.12 Semester Grade Sheet and Consolidated Grade Sheet
+   - 9.13 Academic Malpractice
+   - 9.14 Promotion
+10. **Audit**
+11. **Registering Post Graduate Level Courses**
+12. **UG Research Experience**
+13. **Additional Credentials**
+   - 13.1 ‘Minor’ Credential
+   - 13.2 ‘Honours’ Credential
+14. **Course Substitution**
+15. **Grade Improvement**
+16. **Credit Transfer**
+   - 16.1 Semester Abroad Program
+17. **Course Equivalence**
+18. **Honours Club**
+19. **Time Limit for Programme Completion**
+20. **Award of Degree**
+21. **Modification in Regulations**
+
+### Annexure – I
+
+---
+
+## 1. Preamble
+Today's students differ significantly from those of the past. They prefer to make their own decisions and plan their futures. Student aspirations and workplace demands have become highly diverse. Employers expect students to possess multi-disciplinary skills, leadership qualities, and be proficient in Information and Communication Technology (ICT) and artificial intelligence.
+
+To continually improve education quality, VIT University introduced the Fully Flexible Credit System (FFCS™) in 2008. This initiative allows students to select courses of their choice and adjust their learning pace within the framework of academic requirements. The FFCS also eliminated fixed timetables in favor of slot-based schedules, enabling students to choose their class times freely.
+
+Additionally, students can select courses from various categories, promoting interdisciplinary learning. Slow learners benefit from courses offered in both semesters, allowing them to clear backlogs. Provisions are also in place to reward academically successful students and support research activities in undergraduate programs.
+
+## 2. Scope
+FFCS Academic Regulations Version 4.0 govern students admitted from the academic year 2021-22 onwards across all university programs. Course offerings under FFCS are determined by the Academic Council. This version is applicable to both new and existing programs. The regulations encompass previous versions and their subsequent modifications, with this current version reflecting updates approved through the 72nd Academic Council meeting on December 13, 2023.
+
+## 3. Admission
+All students seeking admission to B.Tech. and M.Tech. programs must undergo national-level examinations (VITEEE for B.Tech., VITMEE for M.Tech.) conducted by the university once a year. Admissions for other programs are based on merit and specific criteria published annually in the admissions brochure.
+
+## 4. Academic System
+
+### 4.1 Semester
+FFCS programs operate on a semester system with two academic semesters per year—Fall (June/July to November) and Winter (December/January to May). Optional weekend intra-semesters and summer sessions may be offered based on demand. The instructional requirements for weekend and summer semesters remain equivalent to regular semesters.
+
+### 4.2 Curriculum
+Each program's curriculum encompasses various courses categorized under Foundation Core, Discipline Linked Engineering Courses, Discipline Core, Discipline Elective/Specialization Electives, Open Electives, Skill Enhancement Courses, Ability Enhancement Courses, and more. 
+
+### 4.3 Syllabus
+Each course syllabus includes essential details such as course code, title, description, objectives, modules, and reference materials. Syllabus changes, whether major or minor, are tracked through version numbers.
+
+### 4.4 Course Plan
+A course plan details lectures and lab sessions according to the course’s LTPC (Lecture, Tutorial, Practical, Credits) structure and is mandatory for course teachers to adhere to.
+
+### 4.5 Course Flowchart
+A visual representation will indicate how various courses interact through prerequisites.
+
+### 4.6 Course Types
+Courses are classified into Theory, Lab, Theory and Lab, and Project/Internship categories. Typical courses emphasize hands-on, project-based learning.
+
+### 4.7 Course Code
+Courses are identified by a unique alphanumeric code that reflects their discipline and cognitive level, along with a version number.
+
+## 5. Programme Duration
+Students are expected to complete degree requirements within the specified duration, as outlined in Annexure 1. Degrees will only be awarded after meeting all program requirements and completing the minimum time prescribed.
+
+## 6. Course and Credit Requirements
+### 6.1 Course Credits
+Credits reflect the duration a course is offered and consist of lectures, tutorials, and lab work. 
+
+### 6.2 Minimum Credit Requirement
+Programs require students to meet specified credit distributions among various categories to qualify for graduation.
+
+### 6.3 Course Distribution
+Courses are classified into several categories, including Foundation Core, Discipline Core, Discipline Elective, and open electives.
+
+#### 6.3.1 Foundation Core (FC)
+Mandatory foundational courses to enhance interdisciplinary knowledge.
+
+#### 6.3.2 Discipline Core (DC)
+Courses that are essential for the specific program.
+
+#### 6.3.3 Discipline Elective (DE)/Specialization Elective (SE)
+Courses offering advanced knowledge in a specific field.
+
+#### 6.3.4 Open Elective (OE)
+Courses from other disciplines, allowing for broader knowledge.
+
+#### 6.3.5 Skill Enhancement Courses (SEC)
+Courses aimed at developing specific skills.
+
+#### 6.3.6 Ability Enhancement Courses (AEC)
+Courses that enhance student capabilities.
+
+#### 6.3.7 Project and Internship
+Mandatory internships and innovative project work related to students' disciplines.
+
+#### 6.3.8 Additional Learning
+Opportunities for hands-on experiences, such as hackathons, which can positively impact grades.
+
+## 7. Course Registration
+Students must register for courses by the university's specified registration days. Late registration is permitted under certain conditions.
+
+### 7.1 Proctor (Assistance)
+Each student is assigned a Proctor who assists in course registration.
+
+### 7.2 Bridge Courses
+Courses that strengthen students' foundational skills, especially during their first semester.
+
+### 7.3 Minimum/Maximum Credit Limits for Course Registration
+Students can register for a minimum of 16 and a maximum of 27 credits, depending on academic performance.
+
+### 7.4 Registering for Backlog Courses
+Students with an 'F' grade must re-register courses in subsequent semesters.
+
+### 7.5 Add/Drop Courses
+Students can add or drop courses within the first three days of the semester.
+
+### 7.6 Course Withdrawal
+Students may withdraw from a course due to unsatisfactory performance.
+
+### 7.7 Course Prerequisites
+Certain courses may require completion of specific prerequisites.
+
+## 8. Attendance
+A minimum of 75% attendance is mandatory to be eligible for assessments, although students may be allowed to maintain higher attendance thresholds under certain circumstances.
+
+## 9. Assessment/Evaluation
+Each course is assessed through Continuous Assessment Tests, assignments, and a Final Assessment Test.
+
+### 9.1 Class Based Learning
+Assessment includes Continuous Assessment Marks (CAM) and Final Assessment Test (FAT).
+
+### 9.2 Questions based on HOTs
+Exam questions are designed to test higher-order thinking skills.
+
+### 9.3 Eligibility for Examinations
+Students must meet attendance and conduct standards to be eligible for exams.
+
+### 9.4 Grading System
+Letter grades are assigned based on performance, with criteria varying by course type.
+
+### 9.5 Absolute and Relative Grading
+Grades may be determined based on either absolute or relative performance against peer averages.
+
+### 9.6 Evaluation for Laboratory Courses
+Lab-only courses are assessed separately, requiring a minimum score for passing.
+
+### 9.7 Evaluation of Courses with Embedded Laboratory
+Students must meet criteria in both theory and lab components to pass.
+
+### 9.8 Viewing Internal Assessment Marks
+Marks can be reviewed by students before the FAT.
+
+### 9.9 Perusal of Answer Sheets, Re-evaluation, and Declaration of Results
+Students can request to view their exam papers and apply for re-evaluation if necessary.
+
+### 9.10 Calculation of Grade Point Average
+GPA is calculated based on course credits and grade points.
+
+### 9.11 Absence from an Exam
+No retakes for missed assessments except under exceptional circumstances.
+
+### 9.12 Semester and Consolidated Grade Sheet
+Students receive grade sheets at the end of each semester, detailing their performance.
+
+### 9.13 Academic Malpractice
+Serious consequences are in place for academic dishonesty.
+
+### 9.14 Promotion
+Students are promoted based on performance criteria, but those with low CGPA may have restrictions.
+
+## 10. Audit
+Audit courses allow students to learn without the pressure of grades.
+
+## 11. Registering Post Graduate Level Courses
+Undergraduate students with a sufficient CGPA may register for postgraduate courses.
+
+## 12. UG Research Experience
+Opportunities for research experience through various project-type courses.
+
+## 13. Additional Credentials
+Completion of additional courses can lead to earning minors or honors.
+
+### 13.1 ‘Minor’ Credential
+Minor credentials require students to complete specified additional courses in a secondary discipline.
+
+### 13.2 ‘Honours’ Credential
+Honours credentials require completion of advanced courses in the student’s major field.
+
+## 14. Course Substitution
+Students can substitute elective courses if they fail a course.
+
+## 15. Grade Improvement
+Students may retake courses to improve their grades.
+
+## 16. Credit Transfer
+Credit transfer policies facilitate course completion across programs within the university.
+
+### 16.1 Semester Abroad Program
+Opportunities for study abroad credits are available for eligible students.
+
+## 17. Course Equivalence
+Courses from older curricula may transfer to newer equivalents based on content alignment.
+
+## 18. Honours Club
+Students with exceptional performance may join the Honours Club for rewards.
+
+## 19. Time Limit for Programme Completion
+Students must complete their programs within a designated timeframe with provisions for extensions under certain circumstances.
+
+## 20. Award of Degree
+Degrees are conferred upon successful completion of all academic requirements.
+
+## 21. Modification in Regulations
+The Academic Council reserves the right to modify regulations.
+
+### Annexure – I
+**Minimum duration of the Programme**
+- **B.Tech., B.Des., B.Sc. (Hons) Agriculture:** 4 years
+- **M.Tech., M.Des., M.Arch.:** 2 years
+- **M.Tech. (5 year Integrated), B.Arch.:** 5 Years
+- **M.Sc., MCA, MBA, Master of Social Work:** 2 years
+- **M.Sc. (5 year Integrated):** 5 years
+- **BCA, B.Sc., B.Com., BBA:** 3 years
